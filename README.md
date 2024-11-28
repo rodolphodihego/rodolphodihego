@@ -1,16 +1,23 @@
-## Hi there 👋
+### Ola! sou Rodolpho Dihego 👋
 
-<!--
-**rodolphodihego/rodolphodihego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdihego_?igsh=MWpzb2hld2ZhODFoMA%3D%3D&utm_source=qr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolpho-dihego-4b8249291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+![rd GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolphodihego&show_icons=true&theme=dracula)
+
+### cursos 
+
+<div style="display: inline_black"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+<div style="display: inline_black"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+<div style="display: inline_black"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<div style="display: inline_black"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
